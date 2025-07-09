@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../software/jdk/jdk-17.0.12.jdk" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/CAMT-SE-Year2Term1-AdvanceProgrammingWorks/chapter4/Chapter4/src/main/java" />
+      <root url="file://$PROJECT_DIR$/CAMT-SE-Year2Term1-AdvanceProgrammingWorks/chapter4/Chapter4/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../software/jdk/jdk-17.0.12.jdk" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../software/jdk/jdk-17.0.12.jdk" recursive="false" />
+  </library>
+</component>

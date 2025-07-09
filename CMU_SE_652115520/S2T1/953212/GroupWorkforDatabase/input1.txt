@@ -1,0 +1,15 @@
+Here are a few suggestions that might help correct any installation woes you are experiencing. If you need assistance, don't hesitate to contact a staff member.
+
+When I type, "java -version" I get an error. Check that you edited your PATH environment variable as indicated. A missing ; or an added % is enough to screw things up. Close and re-open a command prompt. Type path at the command prompt and look for an entry that includes C:\Program Files\Java\jdk1.6.0_27\bin;. Check that the version number 1.6.0_27 matches the one you installed—Oracle updates Java periodically and you might have a more recent version. If this doesn't fix the problem, check if you have any old versions of Java on your system. If so, un-install them and re-install Java.
+
+The command "java -version" works, but not "javac -version". Any thoughts? It's likely a path issue. Try the suggestions from the previous question. Also check that you installed the JDK properly by checking that the folder C:\Program Files\Java\jdk1.6.0_27\bin exists.
+
+How can I check the values of my PATH variable? Type the following at the command prompt.
+
+C:\introcs\hello\> echo %PATH%
+The PATH variable should begin with C:\Program Files\Java\jdk1.6.0_27\bin; Be sure to open the command prompt after you have edited the PATH environment variable. You may also need to reboot for the environment variable change to take effect.
+I can compile with javac, but I get the error message "Exception in thread "main" java.lang.NoClassDefFoundError: HelloWorld" when I try to execute it with java. First, be sure that HelloWorld.class is now in the current directory. Be sure to type java HelloWorld without a trailing .class or .java. Check that the command "java -version" works. Now try to execute with "java -cp . HelloWorld". If this works, you need to edit your classpath. (iTunes has a proclivity for changing the classpath, so if you recently upgraded iTunes, this is likely the source of the problem.)
+
+Where can I learn more about the Windows command line? Here is a short tutorial on the Windows command prompt. Microsoft maintains a complete command line reference.
+
+How do I change my directory to the H: drive from the Windows Command Prompt? Thanks :D :) Type H: at the command prompt. Then cd to the appropriate directory.

@@ -1,0 +1,17 @@
+Function Assembly_Line_Schedualing(n,e1,e2,t1,t2,x1,x2)
+    //n = number of workers
+    //e1 = efficiency of worker 1
+    //e2 = efficiency of worker 2
+    //t1 = time taken by worker 1
+    //t2 = time taken by worker 2
+    //x1 = number of items worker 1 can make
+
+    Time1[1] = e1 + a1[1] 
+    Time2[2] = e2 + a2[2]
+
+    For j = 2 to n
+        Time1[j]=min(Time1[j-1] + a1[j],Time2[j-1] + t2[j-1] + a1[j])
+        Time2[j]=min(Time2[j-1] + a2[j],Time1[j-1] + t1[j-1] + a2[j])
+    End For
+
+    

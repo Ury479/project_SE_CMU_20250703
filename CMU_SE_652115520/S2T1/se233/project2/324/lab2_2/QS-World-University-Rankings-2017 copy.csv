@@ -1,0 +1,398 @@
+Year,Rank,University Name,Score,Link,Country,City,Logo
+2017,244, university of dundee,42,https://www.topuniversities.com/universities/university-dundee,United Kingdom,Dundee,Europe
+2017,374,aalborg university,32,https://www.topuniversities.com/universities/aalborg-university,Denmark,Aalborg,Europe
+2017,133,aalto university,57,https://www.topuniversities.com/universities/aalto-university,Finland,Espoo,Europe
+2017,117,aarhus university,60,https://www.topuniversities.com/universities/aarhus-university,Denmark,,Europe
+2017,236,al-farabi kazakh national university,43,https://www.topuniversities.com/universities/al-farabi-kazakh-national-university,Kazakhstan,Almaty,Asia
+2017,163,albert-ludwigs-universitaet freiburg,52,https://www.topuniversities.com/universities/albert-ludwigs-universitaet-freiburg,Germany,Freiburg im Breisgau,Europe
+2017,208,alma mater studiorum - university of bologna,46,https://www.topuniversities.com/universities/alma-mater-studiorum-university-bologna,Italy,Bologna,Europe
+2017,384,american university,31,https://www.topuniversities.com/universities/american-university,United States,Washington D.C.,North America
+2017,228,american university of beirut (aub),43,https://www.topuniversities.com/universities/american-university-beirut-aub,Lebanon,Beirut ,Asia
+2017,222,arizona state university,44,https://www.topuniversities.com/universities/arizona-state-university,United States,Phoenix,North America
+2017,358,aston university,33,https://www.topuniversities.com/universities/aston-university,United Kingdom,Birmingham,Europe
+2017,306,bauman moscow state technical university,36,https://www.topuniversities.com/universities/bauman-moscow-state-technical-university,Russia,Moscow,Europe
+2017,389,beijing institute of technology,31,https://www.topuniversities.com/universities/beijing-institute-technology,China (Mainland),Beijing,Asia
+2017,257,beijing normal university ,40,https://www.topuniversities.com/universities/beijing-normal-university,China (Mainland),Beijing,Asia
+2017,354,belarusian state university,33,https://www.topuniversities.com/universities/belarusian-state-university,Belarus,Minsk,Europe
+2017,320,ben-gurion university of the negev,35,https://www.topuniversities.com/universities/ben-gurion-university-negev,Israel,Be'er Sheva,Asia
+2017,280,birkbeck|| university of london,38,https://www.topuniversities.com/universities/birkbeck-university-london,United Kingdom,London,Europe
+2017,299,boston college,37,https://www.topuniversities.com/universities/boston-college,United States,Newton,North America
+2017,89,boston university,65,https://www.topuniversities.com/universities/boston-university,United States,Boston,North America
+2017,49,brown university,78,https://www.topuniversities.com/universities/brown-university,United States,Providence,North America
+2017,345,brunel university london,34,https://www.topuniversities.com/universities/brunel-university-london,United Kingdom,,Europe
+2017,5,california institute of technology (caltech),97,https://www.topuniversities.com/universities/california-institute-technology-caltech,United States,Pasadena,North America
+2017,140,cardiff university,56,https://www.topuniversities.com/universities/cardiff-university,United Kingdom,Cardiff,Europe
+2017,58,carnegie mellon university,74,https://www.topuniversities.com/universities/carnegie-mellon-university,United States,Pittsburgh,North America
+2017,202,case western reserve university,46,https://www.topuniversities.com/universities/case-western-reserve-university,United States,Cleveland,North America
+2017,164,centralesupélec,52,https://www.topuniversities.com/universities/centralesupelec,France,Saint-Aubin,Europe
+2017,139,chalmers university of technology,56,https://www.topuniversities.com/universities/chalmers-university-technology,Sweden,Gothenburg,Europe
+2017,302,charles university,37,https://www.topuniversities.com/universities/charles-university,Czech Republic,Prague,Europe
+2017,252,chulalongkorn university,41,https://www.topuniversities.com/universities/chulalongkorn-university,Thailand,Bangkok,Asia
+2017,386,chung-ang university (cau),31,https://www.topuniversities.com/universities/chung-ang-university-cau,South Korea,Seoul,Asia
+2017,55,city university of hong kong,75,https://www.topuniversities.com/universities/city-university-hong-kong,Hong Kong SAR,Hong Kong,Asia
+2017,314,city|| university of london,36,https://www.topuniversities.com/universities/city-university-london,United Kingdom,London,Europe
+2017,386,colorado state university,31,https://www.topuniversities.com/universities/colorado-state-university,United States,Fort Collins,North America
+2017,20,columbia university,89,https://www.topuniversities.com/universities/columbia-university,United States,New York City,North America
+2017,239,complutense university of madrid,42,https://www.topuniversities.com/universities/complutense-university-madrid,Spain,Madrid,Europe
+2017,16,cornell university,90,https://www.topuniversities.com/universities/cornell-university,United States,Ithaca,North America
+2017,306,curtin university,36,https://www.topuniversities.com/universities/curtin-university,Australia,Perth,Oceania
+2017,283,dalhousie university,38,https://www.topuniversities.com/universities/dalhousie-university,Canada,Halifax,North America
+2017,158,dartmouth college,53,https://www.topuniversities.com/universities/dartmouth-college,United States,Hanover,North America
+2017,355,deakin university,33,https://www.topuniversities.com/universities/deakin-university,Australia,Geelong,Oceania
+2017,62,delft university of technology,72,https://www.topuniversities.com/universities/delft-university-technology,Netherlands,Delft,Europe
+2017,380,dublin city university,31,https://www.topuniversities.com/universities/dublin-city-university,Ireland,Dublin,Europe
+2017,24,duke university,86,https://www.topuniversities.com/universities/duke-university,United States,Durham,North America
+2017,74,durham university,69,https://www.topuniversities.com/universities/durham-university,United Kingdom,Durham,Europe
+2017,167,eberhard karls universität tübingen,52,https://www.topuniversities.com/universities/eberhard-karls-universitat-tubingen,Germany,Tübingen,Europe
+2017,268,ecole des ponts paristech,39,https://www.topuniversities.com/universities/ecole-des-ponts-paristech,France,Paris,Europe
+2017,33,ecole normale supérieure|| paris,83,https://www.topuniversities.com/universities/ecole-normale-superieure-paris,France,Paris,Europe
+2017,53,ecole polytechnique,76,https://www.topuniversities.com/universities/ecole-polytechnique,France,Palaiseau,Europe
+2017,121,eindhoven university of technology,59,https://www.topuniversities.com/universities/eindhoven-university-technology,Netherlands,Eindhoven,Europe
+2017,149,emory university,54,https://www.topuniversities.com/universities/emory-university,United States,Atlanta,North America
+2017,264,ens paris-saclay,39,https://www.topuniversities.com/universities/ens-paris-saclay,France,Cachan,Europe
+2017,14,epfl,91,https://www.topuniversities.com/universities/epfl,Switzerland,Lausanne,Europe
+2017,144,erasmus university rotterdam ,56,https://www.topuniversities.com/universities/erasmus-university-rotterdam,Netherlands,Rotterdam,Europe
+2017,330,essex|| university of,35,https://www.topuniversities.com/universities/essex-university,United Kingdom,Colchester,Europe
+2017,8,eth zurich - swiss federal institute of technology,94,https://www.topuniversities.com/universities/eth-zurich-swiss-federal-institute-technology,Switzerland,Zürich,Europe
+2017,335,ewha womans university,35,https://www.topuniversities.com/universities/ewha-womans-university,South Korea,Seoul,Asia
+2017,123,freie universitaet berlin,59,https://www.topuniversities.com/universities/freie-universitaet-berlin,Germany,Berlin,Europe
+2017,272,friedrich-alexander-universität erlangen-nürnberg,39,https://www.topuniversities.com/universities/friedrich-alexander-universitat-erlangen-nurnberg,Germany,Erlangen,Europe
+2017,43,fudan university,79,https://www.topuniversities.com/universities/fudan-university,China (Mainland),Shanghai,Asia
+2017,363,george washington university,32,https://www.topuniversities.com/universities/george-washington-university,United States,Ashburn,North America
+2017,214,georgetown university,45,https://www.topuniversities.com/universities/georgetown-university,United States,Washington D.C.,North America
+2017,71,georgia institute of technology,70,https://www.topuniversities.com/universities/georgia-institute-technology,United States,Atlanta,North America
+2017,131,ghent university,58,https://www.topuniversities.com/universities/ghent-university,Belgium,Ghent,Europe
+2017,264,goethe-university frankfurt am main,39,https://www.topuniversities.com/universities/goethe-university-frankfurt-am-main,Germany,Frankfurt,Europe
+2017,336,griffith university,34,https://www.topuniversities.com/universities/griffith-university,Australia,Nathan,Oceania
+2017,337,gwangju institute of science and technology (gist),34,https://www.topuniversities.com/universities/gwangju-institute-science-technology-gist,South Korea,Gwangju,Asia
+2017,171,hanyang university,51,https://www.topuniversities.com/universities/hanyang-university,South Korea,Seoul,Asia
+2017,278,harbin institute of technology,38,https://www.topuniversities.com/universities/harbin-institute-technology,China (Mainland),Harbin,Asia
+2017,3,harvard university,98,https://www.topuniversities.com/universities/harvard-university,United States,Cambridge,North America
+2017,327,heriot-watt university,35,https://www.topuniversities.com/universities/heriot-watt-university,United Kingdom,Edinburgh,Europe
+2017,297,hiroshima university,37,https://www.topuniversities.com/universities/hiroshima-university,Japan,Higashihiroshima City,Asia
+2017,130,hokkaido university,58,https://www.topuniversities.com/universities/hokkaido-university,Japan,Sapporo,Asia
+2017,278,hong kong baptist university,38,https://www.topuniversities.com/universities/hong-kong-baptist-university,Hong Kong SAR,Hong Kong,Asia
+2017,121,humboldt-universität zu berlin,59,https://www.topuniversities.com/universities/humboldt-universitat-zu-berlin,Germany,Berlin,Europe
+2017,9,imperial college london,94,https://www.topuniversities.com/universities/imperial-college-london,United Kingdom,London,Europe
+2017,152,indian institute of science,54,https://www.topuniversities.com/universities/indian-institute-science,India,Bangalore,Asia
+2017,219,indian institute of technology bombay (iitb),45,https://www.topuniversities.com/universities/indian-institute-technology-bombay-iitb,India,Mumbai,Asia
+2017,185,indian institute of technology delhi (iitd),49,https://www.topuniversities.com/universities/indian-institute-technology-delhi-iitd,India,New Delhi,Asia
+2017,302,indian institute of technology kanpur (iitk),37,https://www.topuniversities.com/universities/indian-institute-technology-kanpur-iitk,India,Kanpur,Asia
+2017,313,indian institute of technology kharagpur (iit-kgp),36,https://www.topuniversities.com/universities/indian-institute-technology-kharagpur-iit-kgp,India,Kharagpur,Asia
+2017,249,indian institute of technology madras (iitm),41,https://www.topuniversities.com/universities/indian-institute-technology-madras-iitm,India,Chennai,Asia
+2017,399,indian institute of technology roorkee (iitr),30,https://www.topuniversities.com/universities/indian-institute-technology-roorkee-iitr,India,Roorkee,Asia
+2017,291,indiana university bloomington,37,https://www.topuniversities.com/universities/indiana-university-bloomington,United States,Bloomington,North America
+2017,340,james cook university,34,https://www.topuniversities.com/universities/james-cook-university,Australia,Townsville,Oceania
+2017,17,johns hopkins university,89,https://www.topuniversities.com/universities/johns-hopkins-university,United States,Baltimore,North America
+2017,46,kaist - korea advanced institute of science & technology,78,https://www.topuniversities.com/universities/kaist-korea-advanced-institute-science-technology,South Korea,Daejeon,Asia
+2017,216,keio university,45,https://www.topuniversities.com/universities/keio-university,Japan,Tokyo,Asia
+2017,283,king abdulaziz university (kau),38,https://www.topuniversities.com/universities/king-abdulaziz-university-kau,Saudi Arabia,Jeddah,Asia
+2017,189,king fahd university of petroleum & minerals,48,https://www.topuniversities.com/universities/king-fahd-university-petroleum-minerals,Saudi Arabia,Dhahran,Asia
+2017,227,king saud university,43,https://www.topuniversities.com/universities/king-saud-university,Saudi Arabia,Riyadh,Asia
+2017,21,king's college london,88,https://www.topuniversities.com/universities/kings-college-london,United Kingdom,London,Europe
+2017,98,kit|| karlsruhe institute of technology,63,https://www.topuniversities.com/universities/kit-karlsruhe-institute-technology,Germany,Karlsruhe,Europe
+2017,369,kobe university,32,https://www.topuniversities.com/universities/kobe-university,Japan,Kobe City,Asia
+2017,98,korea university,63,https://www.topuniversities.com/universities/korea-university,South Korea,Seoul,Asia
+2017,97,kth royal institute of technology ,63,https://www.topuniversities.com/universities/kth-royal-institute-technology,Sweden,Stockholm,Europe
+2017,79,ku leuven,68,https://www.topuniversities.com/universities/ku-leuven,Belgium,Leuven,Europe
+2017,37,kyoto university,82,https://www.topuniversities.com/universities/kyoto-university,Japan,Kyoto,Asia
+2017,264,kyung hee university,39,https://www.topuniversities.com/universities/kyung-hee-university,South Korea,,Asia
+2017,135,kyushu university,57,https://www.topuniversities.com/universities/kyushu-university,Japan,Fukuoka City,Asia
+2017,345,l.n. gumilyov eurasian national university (enu),34,https://www.topuniversities.com/universities/ln-gumilyov-eurasian-national-university-enu,Kazakhstan,Nur-Sultan,Asia
+2017,386,la trobe university,31,https://www.topuniversities.com/universities/la-trobe-university,Australia,Melbourne,Oceania
+2017,129,lancaster university,58,https://www.topuniversities.com/universities/lancaster-university,United Kingdom,Lancaster,Europe
+2017,400,leibniz university hannover,30,https://www.topuniversities.com/universities/leibniz-university-hannover,Germany,Hanover,Europe
+2017,102,leiden university,63,https://www.topuniversities.com/universities/leiden-university,Netherlands,Leiden,Europe
+2017,343,lincoln university ,34,https://www.topuniversities.com/universities/lincoln-university,New Zealand,Lincoln,Oceania
+2017,282,linköping university,38,https://www.topuniversities.com/universities/linkoping-university,Sweden,Linköping,Europe
+2017,108,lomonosov moscow state university,62,https://www.topuniversities.com/universities/lomonosov-moscow-state-university,Russia,Moscow,Europe
+2017,237,loughborough university,42,https://www.topuniversities.com/universities/loughborough-university,United Kingdom,Loughborough,Europe
+2017,68,ludwig-maximilians-universität münchen,70,https://www.topuniversities.com/universities/ludwig-maximilians-universitat-munchen,Germany,Munich,Europe
+2017,73,lund university,69,https://www.topuniversities.com/universities/lund-university,Sweden,Lund,Europe
+2017,173,maastricht university ,50,https://www.topuniversities.com/universities/maastricht-university,Netherlands,Maastricht,Europe
+2017,247,macquarie university,41,https://www.topuniversities.com/universities/macquarie-university,Australia,Sydney,Oceania
+2017,283,mahidol university,38,https://www.topuniversities.com/universities/mahidol-university,Thailand,Nakhon Pathom,Asia
+2017,1,massachusetts institute of technology (mit) ,100,https://www.topuniversities.com/universities/massachusetts-institute-technology-mit,United States,Cambridge,North America
+2017,340,massey university,34,https://www.topuniversities.com/universities/massey-university,New Zealand,Palmerston North,Oceania
+2017,30,mcgill university,84,https://www.topuniversities.com/universities/mcgill-university,Canada,Montreal,North America
+2017,149,mcmaster university,54,https://www.topuniversities.com/universities/mcmaster-university,Canada,Hamilton,North America
+2017,350,mgimo university,33,https://www.topuniversities.com/universities/mgimo-university,Russia,Moscow,Europe
+2017,160,michigan state university,53,https://www.topuniversities.com/universities/michigan-state-university,United States,East Lansing,North America
+2017,65,monash university,72,https://www.topuniversities.com/universities/monash-university,Australia,Melbourne,Oceania
+2017,350,moscow institute of physics and technology (mipt / moscow phystech),33,https://www.topuniversities.com/universities/moscow-institute-physics-technology-mipt-moscow-phystech,Russia,Dolgoprudny,Europe
+2017,115,nagoya university,60,https://www.topuniversities.com/universities/nagoya-university,Japan,Nagoya,Asia
+2017,115,nanjing university,60,https://www.topuniversities.com/universities/nanjing-university,China (Mainland),Nanjing,Asia
+2017,315,nankai university,36,https://www.topuniversities.com/universities/nankai-university,China (Mainland),Tianjin,Asia
+2017,241,national cheng kung university (ncku),42,https://www.topuniversities.com/universities/national-cheng-kung-university-ncku,Taiwan,Tainan City,Asia
+2017,174,national chiao tung university,50,https://www.topuniversities.com/universities/national-chiao-tung-university,Taiwan,Hsinchu City,Asia
+2017,400,national research tomsk polytechnic university,30,https://www.topuniversities.com/universities/national-research-tomsk-polytechnic-university,Russia,,Europe
+2017,395,national sun yat-sen university,31,https://www.topuniversities.com/universities/national-sun-yat-sen-university,Taiwan,Kaohsiung City,Asia
+2017,310,national taiwan normal university,36,https://www.topuniversities.com/universities/national-taiwan-normal-university,Taiwan,Taipei City,Asia
+2017,68,national taiwan university (ntu),70,https://www.topuniversities.com/universities/national-taiwan-university-ntu,Taiwan,Taipei City,Asia
+2017,243,national taiwan university of science and technology (taiwan tech),42,https://www.topuniversities.com/universities/national-taiwan-university-science-technology-taiwan-tech,Taiwan,Taipei City,Asia
+2017,395,national technical university of athens,31,https://www.topuniversities.com/universities/national-technical-university-athens,Greece,Athens,Europe
+2017,151,national tsing hua university,54,https://www.topuniversities.com/universities/national-tsing-hua-university,Taiwan,Hsinchu City,Asia
+2017,249,national university of ireland galway,41,https://www.topuniversities.com/universities/national-university-ireland-galway,Ireland,Galway,Europe
+2017,12,national university of singapore (nus),92,https://www.topuniversities.com/universities/national-university-singapore-nus,Singapore,Singapore,Asia
+2017,308,national yang ming university,36,https://www.topuniversities.com/universities/national-yang-ming-university,Taiwan,Taipei City,Asia
+2017,46,new york university (nyu),78,https://www.topuniversities.com/universities/new-york-university-nyu,United States,New York City,North America
+2017,168,newcastle university,52,https://www.topuniversities.com/universities/newcastle-university,United Kingdom,Newcastle upon Tyne,Europe
+2017,277,north carolina state university,38,https://www.topuniversities.com/universities/north-carolina-state-university,United States,Raleigh,North America
+2017,361,northeastern university,32,https://www.topuniversities.com/universities/northeastern-university,United States,Boston,North America
+2017,26,northwestern university,86,https://www.topuniversities.com/universities/northwestern-university,United States,Evanston,North America
+2017,259,norwegian university of science and technology,40,https://www.topuniversities.com/universities/norwegian-university-science-technology,Norway,Trondheim,Europe
+2017,291,novosibirsk state university,37,https://www.topuniversities.com/universities/novosibirsk-state-university,Russia,Novosibirsk ,Europe
+2017,63,osaka university,72,https://www.topuniversities.com/universities/osaka-university,Japan,Osaka City,Asia
+2017,359,oxford brookes university,33,https://www.topuniversities.com/universities/oxford-brookes-university,United Kingdom,,Europe
+2017,39,peking university,81,https://www.topuniversities.com/universities/peking-university,China (Mainland),Beijing,Asia
+2017,95,pennsylvania state university,64,https://www.topuniversities.com/universities/pennsylvania-state-university,United States,University Park,North America
+2017,83,pohang university of science and technology (postech),67,https://www.topuniversities.com/universities/pohang-university-science-technology-postech,South Korea,Pohang ,Asia
+2017,183,politecnico di milano,49,https://www.topuniversities.com/universities/politecnico-di-milano,Italy,Milan,Europe
+2017,305,politecnico di torino,36,https://www.topuniversities.com/universities/politecnico-di-torino,Italy,Turin,Europe
+2017,310,pontificia universidad católica argentina,36,https://www.topuniversities.com/universities/pontificia-universidad-catolica-argentina,Argentina,Buenos Aires,Latin America
+2017,147,pontificia universidad católica de chile (uc),55,https://www.topuniversities.com/universities/pontificia-universidad-cat%C3%B3lica-de-chile-uc,Chile,Santiago,Latin America
+2017,11,princeton university,93,https://www.topuniversities.com/universities/princeton-university,United States,Princeton,North America
+2017,92,purdue university,65,https://www.topuniversities.com/universities/purdue-university,United States,West Lafayette,North America
+2017,393,qatar university,31,https://www.topuniversities.com/universities/qatar-university,Qatar,Doha,Asia
+2017,123,queen mary university of london,59,https://www.topuniversities.com/universities/queen-mary-university-london,United Kingdom,London,Europe
+2017,223,queen's university at kingston,44,https://www.topuniversities.com/universities/queens-university-kingston,Canada,Kingston,North America
+2017,195,queen's university belfast,48,https://www.topuniversities.com/universities/queens-university-belfast,United Kingdom,,Europe
+2017,276,queensland university of technology (qut),38,https://www.topuniversities.com/universities/queensland-university-technology-qut,Australia,Brisbane,Oceania
+2017,190,radboud university ,48,https://www.topuniversities.com/universities/radboud-university,Netherlands,Nijmegen,Europe
+2017,310,rensselaer polytechnic institute,36,https://www.topuniversities.com/universities/rensselaer-polytechnic-institute,United States,Troy,North America
+2017,231,rheinische friedrich-wilhelms-universität bonn,43,https://www.topuniversities.com/universities/rheinische-friedrich-wilhelms-universitat-bonn,Germany,Bonn,Europe
+2017,90,rice university,65,https://www.topuniversities.com/universities/rice-university,United States,Houston,North America
+2017,252,rmit university,41,https://www.topuniversities.com/universities/rmit-university,Australia,Melbourne,Oceania
+2017,235,royal holloway university of london,43,https://www.topuniversities.com/universities/royal-holloway-university-london,United Kingdom,Egham,Europe
+2017,72,ruprecht-karls-universität heidelberg,70,https://www.topuniversities.com/universities/ruprecht-karls-universitat-heidelberg,Germany,Heidelberg,Europe
+2017,301,rutgers university–new brunswick,37,https://www.topuniversities.com/universities/rutgers-university-new-brunswick,United States,New Brunswick,North America
+2017,146,rwth aachen university,55,https://www.topuniversities.com/universities/rwth-aachen-university,Germany,Aachen,Europe
+2017,258,saint petersburg state university,40,https://www.topuniversities.com/universities/saint-petersburg-state-university,Russia,Saint Petersburg,Europe
+2017,223,sapienza university of rome,44,https://www.topuniversities.com/universities/sapienza-university-rome,Italy,Rome,Europe
+2017,220,sciences po ,45,https://www.topuniversities.com/universities/sciences-po,France,Paris,Europe
+2017,35,seoul national university,82,https://www.topuniversities.com/universities/seoul-national-university,South Korea,Seoul,Asia
+2017,61,shanghai jiao tong university,72,https://www.topuniversities.com/universities/shanghai-jiao-tong-university,China (Mainland),Shanghai,Asia
+2017,226,simon fraser university,44,https://www.topuniversities.com/universities/simon-fraser-university,Canada,Burnaby,North America
+2017,252,soas university of london ,41,https://www.topuniversities.com/universities/soas-university-london,United Kingdom,London,Europe
+2017,2,stanford university,99,https://www.topuniversities.com/universities/stanford-university,United States,Stanford,North America
+2017,395,stellenbosch university,31,https://www.topuniversities.com/universities/stellenbosch-university,South Africa,Stellenbosch,Africa
+2017,196,stockholm university,47,https://www.topuniversities.com/universities/stockholm-university,Sweden,Stockholm,Europe
+2017,390,stony brook university|| state university of new york,31,https://www.topuniversities.com/universities/stony-brook-university-state-university-new-york,United States,Stony Brook,North America
+2017,297,sun yat-sen university,37,https://www.topuniversities.com/universities/sun-yat-sen-university,China (Mainland),Guangzhou,Asia
+2017,106,sungkyunkwan university(skku),62,https://www.topuniversities.com/universities/sungkyunkwan-universityskku,South Korea,Suwon,Asia
+2017,390,swansea university,31,https://www.topuniversities.com/universities/swansea-university,United Kingdom,Swansea,Europe
+2017,319,tampere university of technology ,36,https://www.topuniversities.com/universities/tampere-university-technology,Finland,Tampere,Europe
+2017,247,technical university of darmstadt,41,https://www.topuniversities.com/universities/technical-university-darmstadt,Germany,Darmstadt,Europe
+2017,109,technical university of denmark,62,https://www.topuniversities.com/universities/technical-university-denmark,Denmark,Kongens Lyngby,Europe
+2017,60,technical university of munich,72,https://www.topuniversities.com/universities/technical-university-munich,Germany,Munich,Europe
+2017,213,technion - israel institute of technology,46,https://www.topuniversities.com/universities/technion-israel-institute-technology,Israel,Haifa,Asia
+2017,164,technische universität berlin (tu berlin),52,https://www.topuniversities.com/universities/technische-universitat-berlin-tu-berlin,Germany,Berlin,Europe
+2017,210,technische universität dresden,46,https://www.topuniversities.com/universities/technische-universitat-dresden,Germany,Dresden,Europe
+2017,183,technische universität wien,49,https://www.topuniversities.com/universities/vienna-university-technology,Austria,Vienna,Europe
+2017,206,tecnológico de monterrey,46,https://www.topuniversities.com/universities/tecnologico-de-monterrey,Mexico,Monterrey,Latin America
+2017,212,tel aviv university,46,https://www.topuniversities.com/universities/tel-aviv-university,Israel,Tel Aviv,Asia
+2017,160,texas a&m university,53,https://www.topuniversities.com/universities/texas-am-university,United States,Galveston,North America
+2017,365,the american university in cairo,32,https://www.topuniversities.com/universities/american-university-cairo,Egypt,Cairo,Africa
+2017,22,the australian national university,87,https://www.topuniversities.com/universities/australian-national-university,Australia,Canberra,Oceania
+2017,44,the chinese university of hong kong (cuhk),78,https://www.topuniversities.com/universities/chinese-university-hong-kong-cuhk,Hong Kong SAR,Hong Kong,Asia
+2017,148,the hebrew university of jerusalem,54,https://www.topuniversities.com/universities/hebrew-university-jerusalem,Israel,Jerusalem,Asia
+2017,111,the hong kong polytechnic university,61,https://www.topuniversities.com/universities/hong-kong-polytechnic-university,Hong Kong SAR,Hong Kong,Asia
+2017,36,the hong kong university of science and technology,82,https://www.topuniversities.com/universities/hong-kong-university-science-technology,Hong Kong SAR,Hong Kong,Asia
+2017,37,the london school of economics and political science (lse),82,https://www.topuniversities.com/universities/london-school-economics-political-science-lse,United Kingdom,London,Europe
+2017,88,the ohio state university,65,https://www.topuniversities.com/universities/ohio-state-university,United States,Columbus,North America
+2017,125,the university of adelaide,59,https://www.topuniversities.com/universities/university-adelaide,Australia,Adelaide,Oceania
+2017,233,the university of arizona,43,https://www.topuniversities.com/universities/university-arizona,United States,Tucson,North America
+2017,81,the university of auckland,67,https://www.topuniversities.com/universities/university-auckland,New Zealand,Auckland,Oceania
+2017,19,the university of edinburgh,89,https://www.topuniversities.com/universities/university-edinburgh,United Kingdom,Edinburgh,Europe
+2017,164,the university of exeter,52,https://www.topuniversities.com/universities/university-exeter,United Kingdom,Exeter,Europe
+2017,27,the university of hong kong,85,https://www.topuniversities.com/universities/university-hong-kong,Hong Kong SAR,Hong Kong,Asia
+2017,29,the university of manchester,85,https://www.topuniversities.com/universities/university-manchester,United Kingdom,Manchester,Europe
+2017,42,the university of melbourne,80,https://www.topuniversities.com/universities/university-melbourne,Australia,Parkville,Oceania
+2017,49,the university of new south wales (unsw sydney),78,https://www.topuniversities.com/universities/university-new-south-wales-unsw-sydney,Australia,Sydney,Oceania
+2017,245,the university of newcastle|| australia (uon),41,https://www.topuniversities.com/universities/university-newcastle-australia-uon,Australia,Callaghan,Oceania
+2017,51,the university of queensland,78,https://www.topuniversities.com/universities/university-queensland,Australia,Brisbane,Oceania
+2017,84,the university of sheffield,67,https://www.topuniversities.com/universities/university-sheffield,United Kingdom,Sheffield,Europe
+2017,46,the university of sydney,78,https://www.topuniversities.com/universities/university-sydney,Australia,Sydney,Oceania
+2017,34,the university of tokyo,83,https://www.topuniversities.com/universities/university-tokyo,Japan,Tokyo,Asia
+2017,51,the university of warwick,78,https://www.topuniversities.com/universities/university-warwick,United Kingdom,Coventry,Europe
+2017,102,the university of western australia,63,https://www.topuniversities.com/universities/university-western-australia,Australia,Perth,Oceania
+2017,330,tilburg university,35,https://www.topuniversities.com/universities/tilburg-university,Netherlands,Tilburg,Europe
+2017,75,tohoku university,69,https://www.topuniversities.com/universities/tohoku-university,Japan,Sendai City,Asia
+2017,56,tokyo institute of technology (tokyo tech),75,https://www.topuniversities.com/universities/tokyo-institute-technology-tokyo-tech,Japan,Tokyo,Asia
+2017,329,tokyo medical and dental university (tmdu),35,https://www.topuniversities.com/universities/tokyo-medical-dental-university-tmdu,Japan,Tokyo,Asia
+2017,377,tomsk state university,31,https://www.topuniversities.com/universities/tomsk-state-university,Russia,Tomsk,Europe
+2017,315,tongji university,36,https://www.topuniversities.com/universities/tongji-university,China (Mainland),Shanghai,Asia
+2017,98,trinity college dublin|| the university of dublin,63,https://www.topuniversities.com/universities/trinity-college-dublin-university-dublin,Ireland,Dublin,Europe
+2017,24,tsinghua university,86,https://www.topuniversities.com/universities/tsinghua-university,China (Mainland),Beijing,Asia
+2017,238,tufts university,42,https://www.topuniversities.com/universities/tufts-university,United States,Medford,North America
+2017,7,ucl,96,https://www.topuniversities.com/universities/ucl,United Kingdom,London,Europe
+2017,294,umea university,37,https://www.topuniversities.com/universities/umea-university,Sweden,Umeå,Europe
+2017,308,universidad austral,36,https://www.topuniversities.com/universities/universidad-austral,Argentina,Pilar,Latin America
+2017,210,universidad autónoma de madrid,46,https://www.topuniversities.com/universities/universidad-autonoma-de-madrid,Spain,Madrid,Europe
+2017,280,universidad carlos iii de madrid (uc3m),38,https://www.topuniversities.com/universities/universidad-carlos-iii-de-madrid-uc3m,Spain,Madrid,Europe
+2017,352,universidad de belgrano,33,https://www.topuniversities.com/universities/universidad-de-belgrano,Argentina,Buenos Aires,Latin America
+2017,85,universidad de buenos aires (uba),66,https://www.topuniversities.com/universities/universidad-de-buenos-aires-uba,Argentina,Buenos Aires,Latin America
+2017,200,universidad de chile,47,https://www.topuniversities.com/universities/universidad-de-chile,Chile,Santiago,Latin America
+2017,272,universidad de los andes,39,https://www.topuniversities.com/universities/universidad-de-los-andes,Colombia,Bogotá,Latin America
+2017,128,universidad nacional autónoma de méxico  (unam),58,https://www.topuniversities.com/universities/universidad-nacional-autonoma-de-mexico-unam,Mexico,Mexico City,Latin America
+2017,269,universidad nacional de colombia,39,https://www.topuniversities.com/universities/universidad-nacional-de-colombia,Colombia,Bogotá,Latin America
+2017,120,universidade de são paulo,59,https://www.topuniversities.com/universities/universidade-de-sao-paulo,Brazil,São Paulo,Latin America
+2017,191,universidade estadual de campinas (unicamp),48,https://www.topuniversities.com/universities/universidade-estadual-de-campinas-unicamp,Brazil,Campinas,Latin America
+2017,321,universidade federal do rio de janeiro,35,https://www.topuniversities.com/universities/universidade-federal-do-rio-de-janeiro,Brazil,Rio de Janeiro,Latin America
+2017,366,universidade nova de lisboa,32,https://www.topuniversities.com/universities/universidade-nova-de-lisboa,Portugal,Lisbon,Europe
+2017,325,universitas indonesia,35,https://www.topuniversities.com/universities/universitas-indonesia,Indonesia,Depok,Asia
+2017,203,universitat autònoma de barcelona,46,https://www.topuniversities.com/universities/universitat-autonoma-de-barcelona,Spain,Barcelona,Europe
+2017,160,universitat de barcelona,53,https://www.topuniversities.com/universities/universitat-de-barcelona,Spain,Barcelona,Europe
+2017,321,universitat politècnica de catalunya · barcelonatech (upc),35,https://www.topuniversities.com/universities/universitat-politecnica-de-catalunya-barcelonatech-upc,Spain,Barcelona,Europe
+2017,283,universitat pompeu fabra (barcelona),38,https://www.topuniversities.com/universities/universitat-pompeu-fabra,Spain,Barcelona,Europe
+2017,216,universite libre de bruxelles,45,https://www.topuniversities.com/universities/universite-libre-de-bruxelles,Belgium,Brussels,Europe
+2017,302,universiti kebangsaan malaysia (ukm),37,https://www.topuniversities.com/universities/universiti-kebangsaan-malaysia-ukm,Malaysia,Bangi,Asia
+2017,133,universiti malaya (um),57,https://www.topuniversities.com/universities/universiti-malaya-um,Malaysia,Kuala Lumpur,Asia
+2017,270,universiti putra malaysia (upm),39,https://www.topuniversities.com/universities/universiti-putra-malaysia-upm,Malaysia,Seri Kembangan,Asia
+2017,330,universiti sains malaysia (usm),35,https://www.topuniversities.com/universities/universiti-sains-malaysia-usm,Malaysia,Gelugor,Asia
+2017,288,universiti teknologi malaysia ,37,https://www.topuniversities.com/universities/universiti-teknologi-malaysia,Malaysia,Skudai,Asia
+2017,283,university college cork,38,https://www.topuniversities.com/universities/university-college-cork,Ireland,Cork,Europe
+2017,176,university college dublin,50,https://www.topuniversities.com/universities/university-college-dublin,Ireland,Dublin,Europe
+2017,141,university of aberdeen,56,https://www.topuniversities.com/universities/university-aberdeen,United Kingdom,Aberdeen,Europe
+2017,94,university of alberta,64,https://www.topuniversities.com/universities/university-alberta,Canada,Edmonton,North America
+2017,57,university of amsterdam,74,https://www.topuniversities.com/universities/university-amsterdam,Netherlands,Amsterdam,Europe
+2017,209,university of antwerp,46,https://www.topuniversities.com/universities/university-antwerp,Belgium,Antwerp,Europe
+2017,141,university of basel,56,https://www.topuniversities.com/universities/university-basel,Switzerland,Basel,Europe
+2017,159,university of bath,53,https://www.topuniversities.com/universities/university-bath,United Kingdom,Bath,Europe
+2017,177,university of bergen,50,https://www.topuniversities.com/universities/university-bergen,Norway,Bergen,Europe
+2017,181,university of bern,49,https://www.topuniversities.com/universities/university-bern,Switzerland,Bern,Europe
+2017,82,university of birmingham,67,https://www.topuniversities.com/universities/university-birmingham,United Kingdom,Birmingham,Europe
+2017,41,university of bristol,80,https://www.topuniversities.com/universities/university-bristol,United Kingdom,Bristol,Europe
+2017,45,university of british columbia,78,https://www.topuniversities.com/universities/university-british-columbia,Canada,Vancouver,North America
+2017,196,university of calgary,47,https://www.topuniversities.com/universities/university-calgary,Canada,Calgary,North America
+2017,28,university of california|| berkeley (ucb),85,https://www.topuniversities.com/universities/university-california-berkeley-ucb,United States,Berkeley,North America
+2017,85,university of california|| davis,66,https://www.topuniversities.com/universities/university-california-davis,United States,Davis,North America
+2017,156,university of california|| irvine,53,https://www.topuniversities.com/universities/university-california-irvine,United States,Irvine,North America
+2017,31,university of california|| los angeles (ucla),84,https://www.topuniversities.com/universities/university-california-los-angeles-ucla,United States,Los Angeles,North America
+2017,271,university of california|| riverside,39,https://www.topuniversities.com/universities/university-california-riverside,United States,Riverside,North America
+2017,40,university of california|| san diego (ucsd),81,https://www.topuniversities.com/universities/university-california-san-diego-ucsd,United States,San Diego,North America
+2017,118,university of california|| santa barbara (ucsb),59,https://www.topuniversities.com/universities/university-california-santa-barbara-ucsb,United States,Santa Barbara,North America
+2017,296,university of california|| santa cruz,37,https://www.topuniversities.com/universities/university-california-santa-cruz,United States,Santa Cruz,North America
+2017,4,university of cambridge,97,https://www.topuniversities.com/universities/university-cambridge,United Kingdom,Cambridge,Europe
+2017,214,university of canterbury,45,https://www.topuniversities.com/universities/university-canterbury,New Zealand,Christchurch,Oceania
+2017,191,university of cape town,48,https://www.topuniversities.com/universities/university-cape-town,South Africa,Cape Town,Africa
+2017,10,university of chicago,93,https://www.topuniversities.com/universities/university-chicago,United States,Chicago,North America
+2017,347,university of cologne,34,https://www.topuniversities.com/universities/university-cologne,Germany,Cologne,Europe
+2017,170,university of colorado boulder,51,https://www.topuniversities.com/universities/university-colorado-boulder,United States,Boulder,North America
+2017,374,university of colorado|| denver ,32,https://www.topuniversities.com/universities/university-colorado-denver,United States,Denver,North America
+2017,68,university of copenhagen,70,https://www.topuniversities.com/universities/university-copenhagen,Denmark,Copenhagen,Europe
+2017,252,university of east anglia (uea),41,https://www.topuniversities.com/universities/university-east-anglia-uea,United Kingdom,Norwich,Europe
+2017,382,university of eastern finland,31,https://www.topuniversities.com/universities/university-eastern-finland,Finland,Kuopio,Europe
+2017,185,university of florida,49,https://www.topuniversities.com/universities/university-florida,United States,Gainesville,North America
+2017,95,university of geneva,64,https://www.topuniversities.com/universities/university-geneva,Switzerland,Geneva,Europe
+2017,63,university of glasgow,72,https://www.topuniversities.com/universities/university-glasgow,United Kingdom,Glasgow,Europe
+2017,264,university of gothenburg,39,https://www.topuniversities.com/universities/university-gothenburg,Sweden,Gothenburg,Europe
+2017,113,university of groningen,60,https://www.topuniversities.com/universities/university-groningen,Netherlands,Groningen,Europe
+2017,177,university of göttingen,50,https://www.topuniversities.com/universities/university-gottingen,Germany,Göttingen,Europe
+2017,91,university of helsinki,65,https://www.topuniversities.com/universities/university-helsinki,Finland,Helsinki,Europe
+2017,187,university of illinois at chicago (uic),48,https://www.topuniversities.com/universities/university-illinois-chicago-uic,United States,Chicago,North America
+2017,66,university of illinois at urbana-champaign,71,https://www.topuniversities.com/universities/university-illinois-urbana-champaign,United States,Champaign,North America
+2017,393,university of iowa,31,https://www.topuniversities.com/universities/university-iowa,United States,Iowa City,North America
+2017,338,university of jyväskylä,34,https://www.topuniversities.com/universities/university-jyvaskyla,Finland,Jyväskylä,Europe
+2017,373,university of kansas,32,https://www.topuniversities.com/universities/university-kansas,United States,Lawrence,North America
+2017,366,university of kent,32,https://www.topuniversities.com/universities/university-kent,United Kingdom,Paris,Europe
+2017,138,university of lausanne,56,https://www.topuniversities.com/universities/university-lausanne,Switzerland,Lausanne,Europe
+2017,93,university of leeds,64,https://www.topuniversities.com/universities/university-leeds,United Kingdom,Leeds,Europe
+2017,239,university of leicester,42,https://www.topuniversities.com/universities/university-leicester,United Kingdom,Leicester,Europe
+2017,330,university of lisbon ,35,https://www.topuniversities.com/universities/university-lisbon,Portugal,Lisbon ,Europe
+2017,157,university of liverpool,53,https://www.topuniversities.com/universities/university-liverpool,United Kingdom,Liverpool,Europe
+2017,131,university of maryland|| college park,58,https://www.topuniversities.com/universities/university-maryland-college-park,United States,College Park,North America
+2017,251,university of massachusetts amherst,41,https://www.topuniversities.com/universities/university-massachusetts-amherst,United States,Amherst,North America
+2017,252,university of miami,41,https://www.topuniversities.com/universities/university-miami,United States,Miami,North America
+2017,23,university of michigan-ann arbor,86,https://www.topuniversities.com/universities/university-michigan-ann-arbor,United States,Ann Arbor,North America
+2017,370,university of milan,32,https://www.topuniversities.com/universities/university-milan,Italy,Milan,Europe
+2017,137,university of minnesota twin cities,56,https://www.topuniversities.com/universities/university-minnesota-twin-cities,United States,Minneapolis,North America
+2017,245,university of navarra,41,https://www.topuniversities.com/universities/university-navarra,Spain,Pamplona,Europe
+2017,78,university of north carolina|| chapel hill,68,https://www.topuniversities.com/universities/university-north-carolina-chapel-hill,United States,Chapel Hill,North America
+2017,203,university of notre dame,46,https://www.topuniversities.com/universities/university-notre-dame,United States,Notre Dame,North America
+2017,75,university of nottingham,69,https://www.topuniversities.com/universities/university-nottingham,United Kingdom,Nottingham,Europe
+2017,113,university of oslo,60,https://www.topuniversities.com/universities/university-oslo,Norway,Oslo,Europe
+2017,169,university of otago,51,https://www.topuniversities.com/universities/university-otago,New Zealand,Dunedin,Oceania
+2017,291,university of ottawa,37,https://www.topuniversities.com/universities/university-ottawa,Canada,Ottawa,North America
+2017,6,university of oxford,97,https://www.topuniversities.com/universities/university-oxford,United Kingdom,Oxford,Europe
+2017,18,university of pennsylvania,89,https://www.topuniversities.com/universities/university-pennsylvania,United States,Philadelphia,North America
+2017,145,university of pittsburgh,55,https://www.topuniversities.com/universities/university-pittsburgh,United States,Pittsburgh,North America
+2017,323,university of porto,35,https://www.topuniversities.com/universities/university-porto,Portugal,Porto,Europe
+2017,175,university of reading,50,https://www.topuniversities.com/universities/university-reading,United Kingdom,Reading,Europe
+2017,185,university of rochester,49,https://www.topuniversities.com/universities/university-rochester,United States,Rochester,North America
+2017,104,university of science and technology of china,62,https://www.topuniversities.com/universities/university-science-technology-china,China (Mainland),Hefei,Asia
+2017,288,university of south australia,37,https://www.topuniversities.com/universities/university-south-australia,Australia,Magill,Oceania
+2017,87,university of southampton,66,https://www.topuniversities.com/universities/university-southampton,United Kingdom,Southampton,Europe
+2017,136,university of southern california,57,https://www.topuniversities.com/universities/university-southern-california,United States,Los Angeles,North America
+2017,390,university of southern denmark (sdu),31,https://www.topuniversities.com/universities/university-southern-denmark-sdu,Denmark,Odense,Europe
+2017,77,university of st andrews,68,https://www.topuniversities.com/universities/university-st-andrews,United Kingdom,St. Andrews,Europe
+2017,288,university of st.gallen (hsg),37,https://www.topuniversities.com/universities/university-stgallen-hsg,Switzerland,St. Gallen,Europe
+2017,385,university of stirling,31,https://www.topuniversities.com/universities/university-stirling,United Kingdom,Stirling,Europe
+2017,272,university of strathclyde,39,https://www.topuniversities.com/universities/university-strathclyde,United Kingdom,Glasgow,Europe
+2017,261,university of surrey,40,https://www.topuniversities.com/universities/university-surrey,United Kingdom,Guildford,Europe
+2017,187,university of sussex,48,https://www.topuniversities.com/universities/university-sussex,United Kingdom,Brighton,Europe
+2017,347,university of tartu,34,https://www.topuniversities.com/universities/university-tartu,Estonia,Tartu,Europe
+2017,370,university of tasmania,32,https://www.topuniversities.com/universities/university-tasmania,Australia,Hobart,Oceania
+2017,193,university of technology sydney,48,https://www.topuniversities.com/universities/university-technology-sydney,Australia,Haymarket,Oceania
+2017,67,university of texas at austin,71,https://www.topuniversities.com/universities/university-texas-austin,United States,Austin,North America
+2017,380,university of texas dallas,31,https://www.topuniversities.com/universities/university-texas-dallas,United States,Richardson,North America
+2017,374,university of the philippines,32,https://www.topuniversities.com/universities/university-philippines,Philippines,Quezon City,Asia
+2017,32,university of toronto,84,https://www.topuniversities.com/universities/university-toronto,Canada,Toronto,North America
+2017,377,university of tromsø the arctic university of norway,31,https://www.topuniversities.com/universities/university-tromso-arctic-university-norway,Norway,Tromsø,Europe
+2017,225,university of tsukuba,44,https://www.topuniversities.com/universities/university-tsukuba,Japan,Tsukuba City,Asia
+2017,234,university of turku,43,https://www.topuniversities.com/universities/university-turku,Finland,Turku,Europe
+2017,177,university of twente,50,https://www.topuniversities.com/universities/university-twente,Netherlands,Enschede,Europe
+2017,325,university of victoria (uvic),35,https://www.topuniversities.com/universities/university-victoria-uvic,Canada,Victoria,North America
+2017,155,university of vienna,53,https://www.topuniversities.com/universities/university-vienna,Austria,Vienna,Europe
+2017,172,university of virginia,51,https://www.topuniversities.com/universities/university-virginia,United States,Charlottesville,North America
+2017,324,university of waikato,35,https://www.topuniversities.com/universities/university-waikato,New Zealand,Hamilton ,Oceania
+2017,366,university of warsaw ,32,https://www.topuniversities.com/universities/university-warsaw,Poland,Warsaw,Europe
+2017,59,university of washington,74,https://www.topuniversities.com/universities/university-washington,United States,Seattle,North America
+2017,152,university of waterloo,54,https://www.topuniversities.com/universities/university-waterloo,Canada,Waterloo,North America
+2017,53,university of wisconsin-madison,76,https://www.topuniversities.com/universities/university-wisconsin-madison,United States,Madison,North America
+2017,359,university of witwatersrand,33,https://www.topuniversities.com/universities/university-witwatersrand,South Africa,Johannesburg,Africa
+2017,218,university of wollongong,45,https://www.topuniversities.com/universities/university-wollongong,Australia,Wollongong,Oceania
+2017,127,university of york,58,https://www.topuniversities.com/universities/university-york,United Kingdom,York,Europe
+2017,80,university of zurich,68,https://www.topuniversities.com/universities/university-zurich,Switzerland,Zürich,Europe
+2017,347,university ulm,34,https://www.topuniversities.com/universities/university-ulm,Germany,Ulm,Europe
+2017,338,università di padova,34,https://www.topuniversities.com/universities/universita-di-padova,Italy,Padua,Europe
+2017,232,universität hamburg,43,https://www.topuniversities.com/universities/universitat-hamburg,Germany,Hamburg,Europe
+2017,299,universität innsbruck,37,https://www.topuniversities.com/universities/universitat-innsbruck,Austria,Innsbruck,Europe
+2017,363,universität jena,32,https://www.topuniversities.com/universities/universitat-jena,Germany,Jena,Europe
+2017,352,universität konstanz,33,https://www.topuniversities.com/universities/universitat-konstanz,Germany,Konstanz,Europe
+2017,263,universität stuttgart,39,https://www.topuniversities.com/universities/universitat-stuttgart,Germany,Stuttgart,Europe
+2017,154,université catholique de louvain (uclouvain),53,https://www.topuniversities.com/universities/universite-catholique-de-louvain-uclouvain,Belgium,Louvain-la-Neuve,Europe
+2017,315,université de liège,36,https://www.topuniversities.com/universities/universite-de-liege,Belgium,Arlon,Europe
+2017,327,université de montpellier,35,https://www.topuniversities.com/universities/universite-de-montpellier,France,Montpellier,Europe
+2017,126,université de montréal ,59,https://www.topuniversities.com/universities/universite-de-montreal,Canada,Montreal,North America
+2017,260,université de strasbourg,40,https://www.topuniversities.com/universities/universite-de-strasbourg,France,Strasbourg,Europe
+2017,262,université diderot  paris 7,39,https://www.topuniversities.com/universities/universite-diderot-paris-7,France,Paris,Europe
+2017,206,université grenoble alpes,46,https://www.topuniversities.com/universities/universite-grenoble-alpes,France,Grenoble,Europe
+2017,372,université laval,32,https://www.topuniversities.com/universities/universite-laval,Canada,Québec,North America
+2017,228,université paris 1 panthéon-sorbonne ,43,https://www.topuniversities.com/universities/universite-paris-1-pantheon-sorbonne,France,Paris,Europe
+2017,377,université paris descartes,31,https://www.topuniversities.com/universities/universite-paris-descartes,France,Paris ,Europe
+2017,356,université paris-dauphine|| université psl,33,https://www.topuniversities.com/universities/universite-paris-dauphine-universite-psl,France,Paris,Europe
+2017,241,université paris-saclay,42,https://www.topuniversities.com/universities/universite-paris-saclay,France,,Europe
+2017,221,université paris-sorbonne (paris iv),44,https://www.topuniversities.com/universities/universite-paris-sorbonne-paris-iv,France,Paris,Europe
+2017,141,université pierre et marie curie (upmc),56,https://www.topuniversities.com/universities/universite-pierre-et-marie-curie-upmc,France,Paris,Europe
+2017,98,uppsala university,63,https://www.topuniversities.com/universities/uppsala-university,Sweden,Uppsala,Europe
+2017,104,utrecht university,62,https://www.topuniversities.com/universities/utrecht-university,Netherlands,Utrecht,Europe
+2017,382,v. n. karazin kharkiv national university,31,https://www.topuniversities.com/universities/v-n-karazin-kharkiv-national-university,Ukraine,Kharkiv,Europe
+2017,203,vanderbilt university,46,https://www.topuniversities.com/universities/vanderbilt-university,United States,Nashville,North America
+2017,228,victoria university of wellington,43,https://www.topuniversities.com/universities/victoria-university-wellington,New Zealand,"Kelburn, Wellington"
+2017,361,virginia polytechnic institute and state university,32,https://www.topuniversities.com/universities/virginia-polytechnic-institute-state-university,United States,Blacksburg,North America
+2017,199,vrije universiteit amsterdam,47,https://www.topuniversities.com/universities/vrije-universiteit-amsterdam,Netherlands,Amsterdam,Europe
+2017,182,vrije universiteit brussel (vub),49,https://www.topuniversities.com/universities/vrije-universiteit-brussel-vub,Belgium,Brussels,Europe
+2017,119,wageningen university & research,59,https://www.topuniversities.com/universities/wageningen-university-research,Netherlands,Wageningen,Europe
+2017,201,waseda university,47,https://www.topuniversities.com/universities/waseda-university,Japan,Tokyo,Asia
+2017,395,washington state university,31,https://www.topuniversities.com/universities/washington-state-university,United States,Pullman,North America
+2017,106,washington university in st. louis,62,https://www.topuniversities.com/universities/washington-university-st-louis,United States,St. Louis,North America
+2017,198,western university,47,https://www.topuniversities.com/universities/western-university,Canada,London,North America
+2017,294,westfälische wilhelms-universität münster ,37,https://www.topuniversities.com/universities/westfalische-wilhelms-universitat-munster,Germany,Münster,Europe
+2017,275,wuhan university,38,https://www.topuniversities.com/universities/wuhan-university,China (Mainland),Wuhan,Asia
+2017,318,xi’an jiaotong university,36,https://www.topuniversities.com/universities/xian-jiaotong-university,China (Mainland),Xi'an,Asia
+2017,15,yale university,91,https://www.topuniversities.com/universities/yale-university,United States,New Haven,North America
+2017,330,yeshiva university,35,https://www.topuniversities.com/universities/yeshiva-university,United States,New York City,North America
+2017,112,yonsei university,61,https://www.topuniversities.com/universities/yonsei-university,South Korea,Seoul,Asia
+2017,110,zhejiang university,62,https://www.topuniversities.com/universities/zhejiang-university,China (Mainland),Hangzhou,Asia
+2017,177,école normale supérieure de lyon,50,https://www.topuniversities.com/universities/ecole-normale-superieure-de-lyon,France,Lyon,Europe

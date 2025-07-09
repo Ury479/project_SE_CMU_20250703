@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane prefHeight="445.0" prefWidth="445.0" stylesheets="@style/style.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="se233.unarchiver.controller.MainController2">
+   <children>
+      <Rectangle fill="#ff9502ba" height="9.0" layoutX="75.0" layoutY="371.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="114.0" />
+      <Rectangle fill="#ff9502ba" height="9.0" layoutX="107.0" layoutY="251.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="82.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="383.0" layoutY="371.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="393.0" layoutY="371.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="403.0" layoutY="371.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="383.0" layoutY="381.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="393.0" layoutY="381.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="403.0" layoutY="381.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="383.0" layoutY="391.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="393.0" layoutY="391.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="403.0" layoutY="391.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="383.0" layoutY="401.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="393.0" layoutY="401.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="403.0" layoutY="401.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="20.0" layoutY="25.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="30.0" layoutY="25.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="40.0" layoutY="25.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="20.0" layoutY="35.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="30.0" layoutY="35.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="40.0" layoutY="35.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="20.0" layoutY="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="30.0" layoutY="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="40.0" layoutY="45.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="20.0" layoutY="55.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="30.0" layoutY="55.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="40.0" layoutY="55.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="240.0" layoutY="97.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="250.0" layoutY="97.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="260.0" layoutY="97.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="240.0" layoutY="107.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="250.0" layoutY="107.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="260.0" layoutY="107.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="240.0" layoutY="117.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="250.0" layoutY="117.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="260.0" layoutY="117.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="240.0" layoutY="127.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="250.0" layoutY="127.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="260.0" layoutY="127.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="123.0" layoutY="388.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="133.0" layoutY="388.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="143.0" layoutY="388.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="123.0" layoutY="398.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="133.0" layoutY="398.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="143.0" layoutY="398.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="123.0" layoutY="408.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="133.0" layoutY="408.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="143.0" layoutY="408.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="123.0" layoutY="418.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="133.0" layoutY="418.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="143.0" layoutY="418.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="427.0" layoutY="229.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="437.0" layoutY="229.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="427.0" layoutY="239.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="437.0" layoutY="239.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="427.0" layoutY="249.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="437.0" layoutY="249.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="427.0" layoutY="259.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="437.0" layoutY="259.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Label fx:id="archiveFormat" alignment="CENTER" layoutX="29.0" layoutY="-4.0" prefHeight="40.0" prefWidth="227.0" style="-fx-background-color: #ff9502;" text="Create Archive: Choose format" textFill="WHITE" underline="true" />
+      <ImageView fx:id="imageZip" fitHeight="80.0" fitWidth="75.0" layoutX="87.0" layoutY="52.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assets/zip-file-format.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="imageTar" fitHeight="80.0" fitWidth="75.0" layoutX="187.0" layoutY="52.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assets/taz-file.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="image7z" fitHeight="80.0" fitWidth="75.0" layoutX="287.0" layoutY="52.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assets/7z-file.png" />
+         </image>
+      </ImageView>
+      <ScrollPane fx:id="scrollPaneResponse" layoutX="9.0" layoutY="144.0" prefHeight="75.0" prefWidth="430.0" vbarPolicy="NEVER" />
+      <Line endX="336.0" layoutX="109.0" layoutY="221.0" startX="-108.99999237060547" startY="-9.15527380129788E-6" />
+      <Label fx:id="archiveLabel" alignment="CENTER_RIGHT" layoutX="60.0" layoutY="242.0" prefHeight="18.0" prefWidth="138.0" style="-fx-background-color: transparent;" text="Archive name :" />
+      <TextField fx:id="nameField" layoutX="205.0" layoutY="240.0" prefHeight="22.0" prefWidth="160.0" />
+      <CheckBox fx:id="checkBox" layoutX="205.0" layoutY="270.0" mnemonicParsing="false" text="Encrypt" />
+      <Label fx:id="passwordLabel" alignment="CENTER_RIGHT" disable="true" layoutX="60.0" layoutY="302.0" prefHeight="18.0" prefWidth="138.0" text="Password :" />
+      <TextField fx:id="passwordField" disable="true" layoutX="205.0" layoutY="301.0" prefHeight="22.0" prefWidth="160.0" />
+      <PasswordField fx:id="passwordHidden" disable="true" layoutX="205.0" layoutY="300.0" prefHeight="22.0" prefWidth="160.0" />
+      <CheckBox fx:id="checkBox2" disable="true" layoutX="205.0" layoutY="330.0" mnemonicParsing="false" text="Show password" />
+      <Label fx:id="browseLabel" alignment="CENTER_RIGHT" layoutX="60.0" layoutY="362.0" prefHeight="18.0" prefWidth="138.0" style="-fx-background-color: transparent;" text="Archive Location :" />
+      <TextField fx:id="browseField" disable="false" editable="false" layoutX="205.0" layoutY="360.0" prefHeight="22.0" prefWidth="160.0" promptText="..." stylesheets="@style/style.css" />
+      <ImageView fx:id="browseIcon" fitHeight="22.0" fitWidth="32.0" layoutX="373.0" layoutY="360.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assets/folder-1.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="exitButton" layoutX="135.0" layoutY="403.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="85.0" text="Exit" />
+      <Button fx:id="archiveButton" layoutX="235.0" layoutY="403.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="85.0" text="Archive" />
+      <Rectangle fill="#ff9305" height="4.0" layoutX="18.0" layoutY="1.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="4.0" />
+      <Rectangle fill="#ff9305" height="5.0" layoutX="11.0" layoutY="3.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="5.0" />
+      <Rectangle fill="#ff9305" height="10.0" layoutX="18.0" layoutY="7.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="10.0" />
+      <Rectangle fill="#ff9305" height="4.0" layoutX="264.0" layoutY="1.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="4.0" />
+      <Rectangle fill="#ff9305" height="5.0" layoutX="257.0" layoutY="3.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="5.0" />
+      <Rectangle fill="#ff9305" height="10.0" layoutX="264.0" layoutY="7.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="10.0" />
+      <Rectangle arcHeight="20.0" arcWidth="10.0" fill="#ff9305" height="10.0" layoutY="85.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="84.0" />
+      <Rectangle arcHeight="20.0" arcWidth="10.0" fill="#ff9305" height="10.0" layoutX="363.0" layoutY="85.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="83.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="30.0" layoutY="253.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="40.0" layoutY="253.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="50.0" layoutY="253.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="30.0" layoutY="263.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="40.0" layoutY="263.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="50.0" layoutY="263.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="30.0" layoutY="273.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="40.0" layoutY="273.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="50.0" layoutY="273.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="30.0" layoutY="283.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="40.0" layoutY="283.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+      <Rectangle fill="WHITE" height="6.0" layoutX="50.0" layoutY="283.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="6.0" />
+   </children>
+</AnchorPane>

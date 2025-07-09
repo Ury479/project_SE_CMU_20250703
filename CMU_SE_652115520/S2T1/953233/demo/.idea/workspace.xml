@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca1dfbea-797b-419a-9be7-8da41504e65e" name="Changes" comment="图形界面打开不了，显示：/Users/ury/Library/Java/JavaVirtualMachines/openjdk-23/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:63747,suspend=y,server=n --module-path /Users/ury/Documents/software/sdk/javafx-sdk-23/lib --add-modules=javafx.controls,javafx.fxml,javafx.web,javafx.media,javafx.swing -javaagent:/Users/ury/Library/Caches/JetBrains/IntelliJIdea2024.2/captureAgent/debugger-agent.jar -Dkotlinx.coroutines.debug.enable.creation.stack.trace=false -Ddebugger.agent.enable.coroutines=true -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ury/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-fxml/21/javafx-fxml-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-web/21/javafx-web-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-swing/21/javafx-swing-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-media/21/javafx-media-21.jar:/Users/ury/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.10/kotlin-stdlib-common-1.8.10.jar:/Users/ury/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar:/Users/ury/Applications/IntelliJ IDEA Ultimate.app/Contents/lib/idea_rt.jar -m com.beginsecure.demo/com.beginsecure.demo.KeyboardEventExample&#10;            Error occurred during initialization of boot layer&#10;            java.lang.module.FindException: Module com.beginsecure.demo not found&#10;            &#10;            Process finished with exit code 1">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/beginsecure/demo/KeyboardEventExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/beginsecure/demo/KeyboardEventExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CAMT-SE-Year2Term1-AdvanceProgrammingWorks" beforeDir="false" afterPath="$PROJECT_DIR$/../../CAMT-SE-Year2Term1-AdvanceProgrammingWorks" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ury479&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ury479/project_SE_CMU.git&quot;,
+    &quot;accountId&quot;: &quot;0e7238ac-80ad-449b-8b54-7fd17fc24e6a&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nIcFW1ms8bvsjU4NaD4xYtQcvm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CustomizedEvent.executor": "Run",
+    "Application.DragAndDrop.executor": "Run",
+    "Application.DragListExample.executor": "Run",
+    "Application.HelloApplication.executor": "Run",
+    "Application.KeyboardEventExample.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JAR Application.demo-1.0-SNAPSHOT.jar.executor": "Run",
+    "Maven.demo [package].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Shell Script.mvnw.executor": "Run",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "practice",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ury/Documents/project/S2T2/953233/demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.38850576",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.beginsecure.demo.HelloApplication" />
+      <module name="demo" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/../../../../software/sdk/javafx-sdk-21.0.4/lib --add-modules=javafx.controls,javafx.fxml,javafx.web,javafx.media" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.beginsecure.demo.HelloApplication" />
+      <module name="demo" />
+      <option name="VM_PARAMETERS" value="--module-path ~/Documents/project/S2T2/953233/demo/out --add-modules=javafx.controls,javafx.fxml,javafx.web,javafx.media,javafx.swing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca1dfbea-797b-419a-9be7-8da41504e65e" name="Changes" comment="" />
+      <created>1728663926898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728663926898</updated>
+      <workItem from="1728663927879" duration="244000" />
+      <workItem from="1728664181523" duration="4779000" />
+      <workItem from="1728715154172" duration="120000" />
+      <workItem from="1728715279373" duration="2226000" />
+      <workItem from="1728718101119" duration="23000" />
+      <workItem from="1728718127946" duration="37197000" />
+      <workItem from="1728827912032" duration="269000" />
+      <workItem from="1728828289389" duration="102000" />
+      <workItem from="1728828446761" duration="263000" />
+      <workItem from="1728828717432" duration="1945000" />
+    </task>
+    <task id="LOCAL-00001" summary="图形界面打开不了，显示：/Users/ury/Library/Java/JavaVirtualMachines/openjdk-23/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:63747,suspend=y,server=n --module-path /Users/ury/Documents/software/sdk/javafx-sdk-23/lib --add-modules=javafx.controls,javafx.fxml,javafx.web,javafx.media,javafx.swing -javaagent:/Users/ury/Library/Caches/JetBrains/IntelliJIdea2024.2/captureAgent/debugger-agent.jar -Dkotlinx.coroutines.debug.enable.creation.stack.trace=false -Ddebugger.agent.enable.coroutines=true -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ury/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-fxml/21/javafx-fxml-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-web/21/javafx-web-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-swing/21/javafx-swing-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-media/21/javafx-media-21.jar:/Users/ury/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.10/kotlin-stdlib-common-1.8.10.jar:/Users/ury/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar:/Users/ury/Applications/IntelliJ IDEA Ultimate.app/Contents/lib/idea_rt.jar -m com.beginsecure.demo/com.beginsecure.demo.KeyboardEventExample&#10;            Error occurred during initialization of boot layer&#10;            java.lang.module.FindException: Module com.beginsecure.demo not found&#10;            &#10;            Process finished with exit code 1">
+      <option name="closed" value="true" />
+      <created>1728827962953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728827962953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="图形界面打开不了，显示：/Users/ury/Library/Java/JavaVirtualMachines/openjdk-23/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:63747,suspend=y,server=n --module-path /Users/ury/Documents/software/sdk/javafx-sdk-23/lib --add-modules=javafx.controls,javafx.fxml,javafx.web,javafx.media,javafx.swing -javaagent:/Users/ury/Library/Caches/JetBrains/IntelliJIdea2024.2/captureAgent/debugger-agent.jar -Dkotlinx.coroutines.debug.enable.creation.stack.trace=false -Ddebugger.agent.enable.coroutines=true -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ury/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-fxml/21/javafx-fxml-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-web/21/javafx-web-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-swing/21/javafx-swing-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-media/21/javafx-media-21.jar:/Users/ury/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.10/kotlin-stdlib-common-1.8.10.jar:/Users/ury/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar:/Users/ury/Applications/IntelliJ IDEA Ultimate.app/Contents/lib/idea_rt.jar -m com.beginsecure.demo/com.beginsecure.demo.KeyboardEventExample&#10;            Error occurred during initialization of boot layer&#10;            java.lang.module.FindException: Module com.beginsecure.demo not found&#10;            &#10;            Process finished with exit code 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="图形界面打开不了，显示：/Users/ury/Library/Java/JavaVirtualMachines/openjdk-23/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:63747,suspend=y,server=n --module-path /Users/ury/Documents/software/sdk/javafx-sdk-23/lib --add-modules=javafx.controls,javafx.fxml,javafx.web,javafx.media,javafx.swing -javaagent:/Users/ury/Library/Caches/JetBrains/IntelliJIdea2024.2/captureAgent/debugger-agent.jar -Dkotlinx.coroutines.debug.enable.creation.stack.trace=false -Ddebugger.agent.enable.coroutines=true -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/ury/.m2/repository/org/openjfx/javafx-controls/21/javafx-controls-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-graphics/21/javafx-graphics-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-base/21/javafx-base-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-fxml/21/javafx-fxml-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-web/21/javafx-web-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-swing/21/javafx-swing-21.jar:/Users/ury/.m2/repository/org/openjfx/javafx-media/21/javafx-media-21.jar:/Users/ury/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.10/kotlin-stdlib-common-1.8.10.jar:/Users/ury/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar:/Users/ury/Applications/IntelliJ IDEA Ultimate.app/Contents/lib/idea_rt.jar -m com.beginsecure.demo/com.beginsecure.demo.KeyboardEventExample&#10;            Error occurred during initialization of boot layer&#10;            java.lang.module.FindException: Module com.beginsecure.demo not found&#10;            &#10;            Process finished with exit code 1" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

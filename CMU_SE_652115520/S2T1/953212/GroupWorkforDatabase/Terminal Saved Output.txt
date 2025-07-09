@@ -1,0 +1,67 @@
+Last login: Thu Sep 19 16:07:21 on ttys000
+ury@urys-MacBook-Pro ~ % mysql --version
+
+zsh: command not found: mysql
+ury@urys-MacBook-Pro ~ % export PATH=$PATH:/usr/local/mysql/bin/
+
+ury@urys-MacBook-Pro ~ % source ~/.zshrc
+
+ury@urys-MacBook-Pro ~ % mysql --version
+
+mysql  Ver 9.0.1 for macos14 on arm64 (MySQL Community Server - GPL)
+ury@urys-MacBook-Pro ~ % mysql -u root -p database_name < /Users/ury/Documents/lab9.sql
+
+zsh: no such file or directory: /Users/ury/Documents/lab9.sql
+ury@urys-MacBook-Pro ~ % mysql -u root -p 953212 < /Users/ury/Documents/lab9.sql
+
+zsh: no such file or directory: /Users/ury/Documents/lab9.sql
+ury@urys-MacBook-Pro ~ % ls /Users/ury/Documents/lab9.sql
+
+ls: /Users/ury/Documents/lab9.sql: No such file or directory
+ury@urys-MacBook-Pro ~ % ls /Users/ury/Documents/lab9.sql
+
+ls: /Users/ury/Documents/lab9.sql: No such file or directory
+ury@urys-MacBook-Pro ~ % cat /Users/ury/Documents/lab9.sql
+
+cat: /Users/ury/Documents/lab9.sql: No such file or directory
+ury@urys-MacBook-Pro ~ % ls /Users/ury/Documents/lab9.sql
+
+ls: /Users/ury/Documents/lab9.sql: No such file or directory
+ury@urys-MacBook-Pro ~ % find /Users/ury/Documents -name lab9.sql
+
+/Users/ury/Documents/953212/lab9.sql
+ury@urys-MacBook-Pro ~ % mysql -u root -p 953212 < /path/to/your/lab9.sql
+
+zsh: no such file or directory: /path/to/your/lab9.sql
+ury@urys-MacBook-Pro ~ % ls -l /path/to/your/lab9.sql
+
+ls: /path/to/your/lab9.sql: No such file or directory
+ury@urys-MacBook-Pro ~ % find /Users/ury/Documents -name lab9.sql
+
+/Users/ury/Documents/953212/lab9.sql
+ury@urys-MacBook-Pro ~ % find / -name lab9.sql 2>/dev/null
+
+
+find / -name lab9.sql 2>/dev/null
+
+find / -name lab9.sql 2>/dev/null
+find / -name lab9.sql 2>/dev/null
+find / -name lab9.sql 2>/dev/null
+
+
+chmod 644 /path/to/your/lab9.sql
+
+ls -l /path/to/your/lab9.sql
+
+
+
+
+
+
+
+
+
+
+
+
+

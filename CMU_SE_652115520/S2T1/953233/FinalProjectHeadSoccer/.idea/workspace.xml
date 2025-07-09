@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="015be95c-733c-4716-aef6-c43fb310e617" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/dependency-reduced-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/lab4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/logs/app.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/java/se233/chapter4/JarLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/java/se233/chapter4/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/java/se233/chapter4/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/java/se233/chapter4/controller/DrawingLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/java/se233/chapter4/controller/GameLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/java/se233/chapter4/model/AnimatedSprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/java/se233/chapter4/model/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/java/se233/chapter4/model/Keys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/java/se233/chapter4/view/Platform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/MarioSheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/MegaMan3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/MegaMan5-removebg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/MegaMan6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/Megaman2-resize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/Megaman2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/Megaman4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/StillMario.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/compiled_mega_man_sprite_sheet_by_metroidpeter_dahqbt6-fullview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/953212 Lab4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/Lab 7 - database normalization 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/Lab 7 - database normalization 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/Lab10.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/Lab3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/Lab5 sheet (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/Lab6 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/Lab8 - Data normailzation.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/Lab8 - MySQL DDL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/Lab9.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/database-systems.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/Lab1 1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/Main_副本.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/QS-World-University-Rankings-2017.csv的替身" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/QS-World-University-Rankings-2017.csv的替身 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/QS-World-University-Rankings-2017_updated.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/QS-World-University-Rankings-2017_updated_副本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/QS-World-University-Rankings-2017_副本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/QS_World University Rankings 2017_out.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/QS_World University Rankings 2017_out_副本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/myPoint_2.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab1/未命名绘图.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab2/.idea/University-Lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab2/Lab2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/lab2/UniData1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../953212/sellsystem_inject.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Algorism/lab4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CAMT-SE-Year2Term1-AdvanceProgrammingWorks" beforeDir="false" afterPath="$PROJECT_DIR$/../../CAMT-SE-Year2Term1-AdvanceProgrammingWorks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_openjfx_javafx_base_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_openjfx_javafx_base_win_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_openjfx_javafx_controls_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_openjfx_javafx_controls_win_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_openjfx_javafx_fxml_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_openjfx_javafx_graphics_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_openjfx_javafx_swing_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_openjfx_javafx_swing_win_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/dependency-reduced-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/java/se233/chapter5/JarLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/java/se233/chapter5/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/java/se233/chapter5/controller/DrawingLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/java/se233/chapter5/controller/GameLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/java/se233/chapter5/model/AnimatedSprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/java/se233/chapter5/model/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/java/se233/chapter5/model/Keys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/java/se233/chapter5/view/Platform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/java/se233/chapter5/view/Score.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/resources/se233/chapter5/assets/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/resources/se233/chapter5/assets/MarioSheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/resources/se233/chapter5/assets/StillMario.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/main/resources/se233/chapter5/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chapter5/chapter5/src/test/java/se233/chapter5/CharacterTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ury479"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ury479/project_SE_CMU.git",
+    "accountId": "0e7238ac-80ad-449b-8b54-7fd17fc24e6a"
+  }
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2HCHjJCbAOi8XxsfqQn77Dtbnzp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Launcher.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ury/Documents/project/S2T2/953233/FinalProjectHeadSoccer",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.38850576",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\D_Drive\WORK\advance\ProjectII-II\FinalProjectHeadSoccer\src\main\resources\se233\finalprojectheadsoccer" />
+      <recent name="D:\D_Drive\WORK\advance\ProjectII-II\FinalProjectHeadSoccer\src\main\java\se233\finalprojectheadsoccer" />
+      <recent name="D:\D_Drive\WORK\advance\ProjectII-II\FinalProjectHeadSoccer\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se233.finalprojectheadsoccer.Launcher" />
+      <module name="soccer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se233.finalprojectheadsoccer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="015be95c-733c-4716-aef6-c43fb310e617" name="Changes" comment="" />
+      <created>1667782282553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667782282553</updated>
+      <workItem from="1728272906767" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

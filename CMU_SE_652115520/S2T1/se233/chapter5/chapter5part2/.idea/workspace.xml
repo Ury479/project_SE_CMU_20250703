@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6169a679-4fdc-4a6f-8ac3-f46c249d34e8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ljqMEtEKpuITwfyed6CSSzM9v0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Launcher.executor": "Run",
+    "JUnit.FoodTest.executor": "Run",
+    "JUnit.GameLoopTest.executor": "Run",
+    "JUnit.GameLoopTest.redraw_calledThreeTimes_snakeAndFoodShouldRenderThreeTimes.executor": "Run",
+    "JUnit.JUnitTestSuite.executor": "Debug",
+    "JUnit.SnakeTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/UniSE/Y2S1/SE233/chapter5part2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.JUnitTestSuite">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se233.chapter5part2.Launcher" />
+      <module name="chapter5part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se233.chapter5part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameLoopTest.redraw_calledThreeTimes_snakeAndFoodShouldRenderThreeTimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter5part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se233.chapter5part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se233.chapter5part2" />
+      <option name="MAIN_CLASS_NAME" value="se233.chapter5part2.GameLoopTest" />
+      <option name="METHOD_NAME" value="redraw_calledThreeTimes_snakeAndFoodShouldRenderThreeTimes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnitTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter5part2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se233.chapter5part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se233.chapter5part2" />
+      <option name="MAIN_CLASS_NAME" value="se233.chapter5part2.JUnitTestSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JUnitTestSuite" />
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="JUnit.GameLoopTest.redraw_calledThreeTimes_snakeAndFoodShouldRenderThreeTimes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6169a679-4fdc-4a6f-8ac3-f46c249d34e8" name="Changes" comment="" />
+      <created>1725703785184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725703785184</updated>
+      <workItem from="1725703786263" duration="77000" />
+      <workItem from="1725704011518" duration="10232000" />
+      <workItem from="1725801897648" duration="1976000" />
+      <workItem from="1725818292423" duration="267000" />
+      <workItem from="1726405953381" duration="2570000" />
+      <workItem from="1726409826006" duration="179000" />
+      <workItem from="1726410021052" duration="27000" />
+      <workItem from="1726410237749" duration="186000" />
+      <workItem from="1726410497581" duration="622000" />
+      <workItem from="1726411501156" duration="234000" />
+      <workItem from="1726411815694" duration="104000" />
+      <workItem from="1726413747771" duration="145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

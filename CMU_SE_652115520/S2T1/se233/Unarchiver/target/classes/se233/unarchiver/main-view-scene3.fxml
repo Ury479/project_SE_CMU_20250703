@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane maxHeight="623.0" maxWidth="716.0" prefHeight="623.0" prefWidth="716.0" style="-fx-max-height: 445px; -fx-max-width: 445px;" stylesheets="@style/style.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="se233.unarchiver.controller.MainController3">
+   <children>
+      <Rectangle fill="#ff9502ba" height="9.0" layoutX="73.0" layoutY="241.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="112.0" />
+      <Circle fill="WHITE" layoutX="299.0" layoutY="383.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="314.0" layoutY="383.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="329.0" layoutY="383.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="299.0" layoutY="398.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="314.0" layoutY="398.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="329.0" layoutY="398.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="299.0" layoutY="413.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="314.0" layoutY="413.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="329.0" layoutY="413.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="299.0" layoutY="428.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="314.0" layoutY="428.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="329.0" layoutY="428.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="101.0" layoutY="207.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="116.0" layoutY="207.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="131.0" layoutY="207.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="101.0" layoutY="222.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="116.0" layoutY="222.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="131.0" layoutY="222.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="101.0" layoutY="237.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="116.0" layoutY="237.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="131.0" layoutY="237.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="101.0" layoutY="252.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="116.0" layoutY="252.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="131.0" layoutY="252.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="-1.0" layoutY="35.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="14.0" layoutY="35.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="29.0" layoutY="35.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="-1.0" layoutY="50.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="14.0" layoutY="50.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="29.0" layoutY="50.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="-1.0" layoutY="65.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="14.0" layoutY="65.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="29.0" layoutY="65.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="-1.0" layoutY="80.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="14.0" layoutY="80.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="29.0" layoutY="80.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Rectangle fx:id="text2" fill="#ff9502ba" height="33.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="445.0" />
+      <Label fx:id="text1" alignment="CENTER" layoutX="14.0" layoutY="9.0" prefHeight="14.0" prefWidth="384.0" style="-fx-background-color: transparent;" text="Multi-threading Extraction &amp; Password Popups" />
+      <Label fx:id="browseLabel" alignment="CENTER_RIGHT" layoutX="55.0" layoutY="232.0" prefHeight="18.0" prefWidth="138.0" style="-fx-background-color: transparent;" text="Extract Location :" />
+      <TextField fx:id="browseField" disable="false" editable="false" layoutX="200.0" layoutY="230.0" prefHeight="22.0" prefWidth="160.0" promptText="..." stylesheets="@style/style.css" />
+      <ImageView fx:id="browseIcon" fitHeight="22.0" fitWidth="32.0" layoutX="368.0" layoutY="230.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assets/folder-1.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="168.0" fitWidth="168.0" layoutX="139.0" layoutY="47.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@assets/Modern_S_Letter_Logo_1.png" />
+         </image>
+      </ImageView>
+      <Button fx:id="exitButton" layoutX="130.0" layoutY="399.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="85.0" text="Exit" />
+      <Button fx:id="extractButton" layoutX="230.0" layoutY="399.0" mnemonicParsing="false" prefHeight="28.0" prefWidth="85.0" text="Extract" />
+      <Button fx:id="closeButton" layoutX="415.0" layoutY="4.0" mnemonicParsing="false" prefHeight="18.0" prefWidth="20.0" text="x" />
+      <Circle fill="WHITE" layoutX="360.0" layoutY="120.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="375.0" layoutY="120.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="390.0" layoutY="120.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="360.0" layoutY="135.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="375.0" layoutY="135.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="390.0" layoutY="135.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="360.0" layoutY="150.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="375.0" layoutY="150.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="390.0" layoutY="150.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="360.0" layoutY="165.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="375.0" layoutY="165.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="WHITE" layoutX="390.0" layoutY="165.0" radius="4.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+   </children>
+</AnchorPane>

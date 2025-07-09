@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c2baaad-9638-457c-a061-5ddfc37a5628" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations/_template__of_Application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/newImage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/newImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/src/main/java/com/image/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/src/main/java/com/image/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/src/main/resource/Main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/src/main/resource/zip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/target/classes/com/beginsecure/demo1/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/src/main/java/com/beginsecure/jfx/HelloApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/target/classes/com/beginsecure/jfx/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Archive.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/se233/Chapter6/JarLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/se233/Chapter6/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/se233/Chapter6/controller/GameLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/se233/Chapter6/model/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/se233/Chapter6/model/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/se233/Chapter6/model/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/se233/Chapter6/model/SpecialFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/se233/Chapter6/view/GameStage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/java/se233/Chapter6/view/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/resources/com/example/chapter5part2/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/test/java/se233/Chapter6/FoodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/test/java/se233/Chapter6/GameLoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/test/java/se233/Chapter6/JUnitTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/test/java/se233/Chapter6/ReflectionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter6/src/test/java/se233/Chapter6/SnakeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/src/JavafX01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/src/main/java/org/example/demo/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/src/main/java/org/example/demo/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/demo/src/main/resources/org/example/demo/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/jdk_21_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/dependency-reduced-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/lab4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/logs/app.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/java/se233/chapter4/JarLauncher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/java/se233/chapter4/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/java/se233/chapter4/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/java/se233/chapter4/controller/DrawingLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/java/se233/chapter4/controller/GameLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/java/se233/chapter4/model/AnimatedSprite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/java/se233/chapter4/model/Character.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/java/se233/chapter4/model/Keys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/java/se233/chapter4/view/Platform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/log4j2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/MarioSheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/MegaMan3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/MegaMan5-removebg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/MegaMan6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/Megaman2-resize.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/Megaman2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/Megaman4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/StillMario.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter4/Chapter4/src/main/resources/se233/chapter4/assets/compiled_mega_man_sprite_sheet_by_metroidpeter_dahqbt6-fullview.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GitHubProject/CAMT-SE-Year2Term1-AdvanceProgrammingWorks/par6/FXMLLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/.idea/S2T2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/.idea/libraries/lib1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/953212 Lab4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/Lab 7 - database normalization 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/Lab 7 - database normalization 1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/Lab10.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/Lab3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/Lab5 sheet (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/Lab6 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/Lab8 - Data normailzation.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/Lab8 - MySQL DDL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/Lab9.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/database-systems.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/Lab1 1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/Main_副本.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/QS-World-University-Rankings-2017.csv的替身" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/QS-World-University-Rankings-2017.csv的替身 2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/QS-World-University-Rankings-2017_updated.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/QS-World-University-Rankings-2017_updated_副本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/QS-World-University-Rankings-2017_副本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/QS_World University Rankings 2017_out.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/QS_World University Rankings 2017_out_副本.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/myPoint_2.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab1/未命名绘图.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab2/.idea/University-Lab.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab2/Lab2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/lab2/UniData1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/953212/sellsystem_inject.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/Algorism/lab4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/review/leetcode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/review/leetcode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/review/leetcode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/review/leetcode/Maximum_stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S2T2/review/leetcode/leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/se233.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../S2T2/se212/ins-imageutil-fx/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jfx/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/se233/demo/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/example/chapter5part2/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/se233/demo/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter6/src/main/java/com/example/chapter5part2/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/se233/demo/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/target/classes/org/example/demo/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_3/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2_3/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ury479&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ury479/project_SE_CMU.git&quot;,
+    &quot;accountId&quot;: &quot;0e7238ac-80ad-449b-8b54-7fd17fc24e6a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mQPGXQbr0DoQ9sTNH2EuhH0D3U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.beginsecure.jfx.HelloApplication .executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ury/Documents/project/se233&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="VM_PARAMETERS" value="java --module-path $PROJECT_DIR$/../../software/sdk/javafx-sdk-21.0.4/lib --add-modules javafx.controls,javafx.fxml -Dprism.order=sw -Dprism.verbose=true com.beginsecure.jfx.Launcher" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.beginsecure.jfx.HelloApplication " type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se233.unarchiver.Launcher" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/../../software/sdk/javafx-sdk-21.0.4/lib --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c2baaad-9638-457c-a061-5ddfc37a5628" name="Changes" comment="" />
+      <created>1727005731324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727005731324</updated>
+      <workItem from="1727005732381" duration="1404000" />
+      <workItem from="1727007144850" duration="1728000" />
+      <workItem from="1727688889214" duration="174000" />
+      <workItem from="1727692748770" duration="297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

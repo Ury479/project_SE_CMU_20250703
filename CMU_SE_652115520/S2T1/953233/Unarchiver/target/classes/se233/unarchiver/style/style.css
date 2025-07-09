@@ -1,0 +1,158 @@
+
+* {
+    -fx-background-color : #FFDCAB;
+}
+
+.label {
+    /*-fx-font-family: 'monospace';*/
+    /*-fx-font-family: 'Bebas Kai';*/
+    -fx-font-family: "Lucida Console";
+    /*-fx-font-family: 'poppins';*/
+}
+
+.root {
+    -fx-background-color : #FFDCAB;
+    -fx-font-family: "Lucida Console";
+}
+
+ListView {
+    -fx-border-color: black;
+    -fx-border-width: 2;
+    -fx-border-radius: 5;
+    -fx-background-radius: 12;
+    -fx-effect: dropshadow(one-pass-box, rgba(0, 0, 0, 1), 10, 0, 3, 3);
+    -fx-background-insets: 0, 1;
+    -fx-padding: 1;
+}
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: #E2B748;
+    -fx-text-fill: black;
+}
+
+.list-cell {
+    -fx-background-color : #FFDCAB;
+}
+
+.list-cell:filled:hover {
+    -fx-background-color: #1f93ff;
+    -fx-text-fill: white;
+}
+
+#div {
+    -fx-background-color: black;
+}
+
+#dropFileLabel {
+    -fx-background-color: transparent;
+}
+
+.scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical{
+    -fx-background-color:transparent;
+}
+
+.increment-button, .decrement-button {
+    -fx-background-color: black;
+    -fx-border-color: black;
+}
+
+.scroll-bar:horizontal .track,
+.scroll-bar:vertical .track{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0em;
+}
+
+.scroll-bar:horizontal .thumb,
+.scroll-bar:vertical .thumb {
+    -fx-background-color: black;
+    -fx-background-radius: 5em;
+}
+
+.scroll-pane > .viewport {
+    -fx-background-color: transparent;
+    -fx-text-fill : white;
+}
+
+.scroll-pane > .corner {
+    -fx-background-color: black;
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical{
+    -fx-background-color: black;
+}
+
+Button {
+    -fx-border-color: black;
+    -fx-border-width: 2;
+    -fx-border-radius: 5;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(one-pass-box, rgba(0, 0, 0, 1), 0, 0, 2, 2);
+    -fx-background-insets: 0, 1;
+    -fx-padding: 1;
+    -fx-cursor: hand;
+}
+
+#searchButton:hover {
+    -fx-background-color: #4595FF;
+}
+
+#deleteAllButton:hover {
+    -fx-background-color: #F00000;
+}
+
+#selectAllButton:hover {
+    -fx-background-color: #CB34E3;
+}
+
+#deleteButton:hover {
+    -fx-background-color: #FF3C3C;
+}
+
+#extractButton:hover {
+    -fx-background-color: #FFD13E;
+}
+
+#archiveButton:hover {
+    -fx-background-color: #70E248;
+}
+
+#exitButton:hover {
+    -fx-background-color: #FF3C3C;
+}
+
+.check-box .box {
+    -fx-background-color: transparent;
+    -fx-border-color: black;
+    -fx-border-radius: 2px;
+}
+
+.check-box:selected .mark {
+    -fx-background-color: white;
+}
+
+.check-box:selected .box {
+    -fx-background-color: #28a3f4;
+}
+
+.text-field{
+   -fx-padding: 1,1,1,1;
+   -fx-border-color: black;
+   -fx-font-family: 'Lucida Console';
+}
+
+#browseIcon {
+    -fx-cursor: hand;
+}
+
+#copyRight {
+    -fx-background-color : transparent;
+}
+
+#Zomsan1, #Zomsan2, #Zomsan3 {
+    -fx-background-radius: 100;
+}

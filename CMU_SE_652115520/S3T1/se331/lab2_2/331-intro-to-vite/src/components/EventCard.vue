@@ -7,7 +7,5 @@ const count = ref(0)
 </script>
 
 <template>
-  <div class="greetings">
-
-  </div>
- </template>
+  <div class="greetings"></div>
+</template>
